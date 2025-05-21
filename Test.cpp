@@ -1,5 +1,5 @@
 #include<gosapi>
-
+//!!!!OS includes GUI but from API 1.0 you can't call it. 
 int main(int argc, char *argv[])
 {
 	SetApiV(1, 0);
